@@ -1,4 +1,5 @@
 car_start = "Car started..Ready to go"
+car = 'I am a car'
 car_stop = "Car stopped."
 quit_game = "Bye!"
 help_game = '''
